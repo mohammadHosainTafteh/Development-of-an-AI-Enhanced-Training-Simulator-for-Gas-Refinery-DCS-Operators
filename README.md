@@ -126,16 +126,33 @@ This project proposes the development of a modular, AI-powered simulator that re
 * **Phase 7:** Testing, Validation, and Deployment (Month 31–36) Conduct unit tests, scenario walkthroughs, and operator trials. Finalize deployment package for training centers.
 
 
-7. Resources Needed
+## 7. Resources Needed
 
-Access to refinery process data and operator logs
+### Technical Resources
 
-Thermodynamic modeling software or libraries
+* Access to refinery process data and operator logs
 
-AI development tools and compute resources
+* Fluid flow, heat/mass transfer, and reaction modeling software and libraries
 
-Collaboration with refinery engineers and trainers
+* AI development tools and training datasets
 
-8. Conclusion
+* Compute infrastructure for simulation, model training, and 3D rendering
 
-This project will deliver a high-impact training tool that combines engineering rigor with AI innovation. By simulating real-world refinery operations, it will empower DCS operators to make safer, smarter decisions in complex environments.
+* PLC/DCS data access tools and protocol libraries
+
+### Human Resources
+
+* Process engineers and control specialists
+
+* DCS trainers and operational experts
+
+* AI developers and software architects
+
+* Mechanical designers for 3D modeling
+
+* Project manager and QA testers
+
+
+## 8. Conclusion
+
+This project will deliver a high-impact, AI-enhanced training tool that combines engineering rigor with intelligent simulation. By replicating real-world gas refinery operations—including startup, shutdown, and fault scenarios—it will empower DCS operators to make safer, smarter decisions in complex environments.
